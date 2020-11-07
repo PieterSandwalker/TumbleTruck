@@ -1,8 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "{8D02F5AD-400B-4DC7-AE1C-54B5B6C0C3DB}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "TumbleTruck",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "PhysXVehicles",
